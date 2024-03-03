@@ -13,4 +13,4 @@ The List Of Friends project is part of a Vue.js course and serves as a practical
 
 ## Usage
 
-Follow the link to open deployed application: 
+Follow the link to open deployed application: https://ivanna0803.github.io/list-of-friends/
